@@ -1,0 +1,29 @@
+
+a {
+  color: black;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+body {
+  background: #3a3a3a;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+#header {
+ color: aqua;
+ text-align: center;
+ text-decoration: underline;
+ outline: 5px groove green;
+ padding: 1%;
+}
+
+#whats-on {
+ text-align: center;
+ margin-top: 10%;
+ color: rgb(255, 5, 5);
+ outline: 10px dashed orange;
+ font-size: xxx-large;
+}
